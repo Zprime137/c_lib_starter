@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "format": "c"
+    }
+}
