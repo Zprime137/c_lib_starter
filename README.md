@@ -66,7 +66,7 @@ You will need the following tools installed:
 - **Clone the Repository**:
 
 ```bash
-git clone <https://github.com/yourusername/project_name.git>
+git clone <https://github.com/Zprime137/c_lib_starter.git>
 cd project_name
 ```
 
